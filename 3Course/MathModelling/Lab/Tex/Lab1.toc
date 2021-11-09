@@ -1,0 +1,6 @@
+\babel@toc {russian}{}
+\contentsline {section}{Формулировка задачи}{3}%
+\contentsline {section}{Математическая модель}{3}%
+\contentsline {section}{Реализация с начальными данными}{3}%
+\contentsline {section}{Визуализация}{3}%
+\contentsline {section}{Заключение}{3}%
